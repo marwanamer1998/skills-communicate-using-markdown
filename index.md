@@ -8,9 +8,8 @@
 
 ![Image of Potato](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Patates.jpg/500px-Patates.jpg)
 
-
+<h2> Code Blocks</h2>
 To add code I have to add three ``` followed by coding language
-
 
 # ``` python does the thing below:
 ``` python
@@ -23,3 +22,11 @@ for i in vegetable:
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+
+# Task Lists
+## - [x] for complete 
+## -[ ] for incomplete
+To add task lists I can do the following:
+- [x] Completed 
+- [ ] Incomplete
