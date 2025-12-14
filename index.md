@@ -7,3 +7,19 @@
 
 
 ![Image of Potato](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Patates.jpg/500px-Patates.jpg)
+
+
+To add code I have to add three ``` followed by coding language
+
+
+# ``` python does the thing below:
+``` python
+vegetable = potato
+
+for i in vegetable:
+  print(i)
+``` 
+# ``` javascript does the thing below
+``` javascript
+var myVar = "Hello, world!";
+```
