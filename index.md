@@ -4,3 +4,6 @@
 
 
 # This is a meaningful message showing how much I worked on this file 
+
+
+![Image of Potato](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Patates.jpg/500px-Patates.jpg)
